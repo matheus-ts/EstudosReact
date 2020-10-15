@@ -1,0 +1,22 @@
+:root{
+    /*--gradient-bg-color: #29B6D1 to #00C7C7;*/
+
+    --gradient-1: #29B6D1;
+    --gradient-2: #00c7c7;
+
+    --primary-color: #15C3D6;
+    --secundary-color: #FFD666;
+    --btn-color: #37C77F;
+    /*Falta mais colors add*/
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito", sans-serif;
+}
+
+/*
+Primeira versão styles.global 
+*/

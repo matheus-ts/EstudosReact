@@ -1,0 +1,17 @@
+.button{
+    height: 60px;
+    width: 60px;
+    background: var(--secundary-color);
+    border: 0;
+    display: flex;
+    border-radius: 30%;
+    transition: 0.5s;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.button:hover{
+    color: var(--primary-color);
+    background-color: #96FEFF;
+    transition: 1s ease-in-out;
+}
